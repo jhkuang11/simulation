@@ -1,2 +1,2 @@
 # Social media impacted Susceptible-Infected Model
-##test
+The SI model is one of the simplest compartmental models, and many models are derivations of this basic form. The model consists of three compartments– S for the number susceptible, I for the number of infectious. However, traditional models assume that everybody has the same contact network and same chance of getting infected. Through social media analysis, strength of human relationship can be taken into consideration in disease spread.
