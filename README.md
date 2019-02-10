@@ -1,1 +1,1 @@
-# Susceptible-Infected Model
+# Social media impacted Susceptible-Infected Model
