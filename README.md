@@ -7,6 +7,10 @@ The SI model is one of the simplest compartmental models, and many models are de
 For a small network in which everybody is close, traditional SI model treats everybody the same, but with the help of social media, people can be differentiated; people with closer relationship to infector tend to get infected more quickly. Intersection of S and I line indicates how quickly the disease can spread.<br/>
 ### &nbsp; Standard Susceptible-Infected model &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Social media impacted SI model<br/>
 <img src="https://github.com/jhkuang11/simulation/blob/master/graphs/3.png" /> <img src="https://github.com/jhkuang11/simulation/blob/master/graphs/4.png" /><br/>
+--------------
+For a neutral network, traditional SI model and social media impacted model should behave similarly<br/>
+### &nbsp; Standard Susceptible-Infected model &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Social media impacted SI model<br/>
+<img src="https://github.com/jhkuang11/simulation/blob/master/graphs/6.png" /> <img src="https://github.com/jhkuang11/simulation/blob/master/graphs/5.png" /><br/>
 
 
 
